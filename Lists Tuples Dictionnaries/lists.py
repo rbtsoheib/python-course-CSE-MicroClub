@@ -14,3 +14,6 @@ li.append(345)
 print(li)
 
 print(li[11])
+
+li.append("l3ziiiiz lwiiiiz")
+print(li)
