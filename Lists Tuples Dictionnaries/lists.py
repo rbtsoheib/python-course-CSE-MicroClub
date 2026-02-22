@@ -17,3 +17,8 @@ print(li[11])
 
 li.append("l3ziiiiz lwiiiiz")
 print(li)
+
+
+li2 = [[1, 4 , 66] , [ 'hello world ', 'your mom ', 'lets gooo'], [True , False]]
+
+print(li2)
