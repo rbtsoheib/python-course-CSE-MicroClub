@@ -9,3 +9,8 @@ print(li[1])
 print(li[2]) 
 print(li[3]) 
 print(li[4]) 
+
+li.append(345) 
+print(li)
+
+print(li[11])
