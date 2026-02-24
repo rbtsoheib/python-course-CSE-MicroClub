@@ -18,7 +18,7 @@
 
 
 
-for i in range(21): 
+for i in range(1, 20): 
     print(f"the niggas are now {i}")
 
 # for i in range(2, 10, 2):
