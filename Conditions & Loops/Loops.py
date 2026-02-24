@@ -13,6 +13,8 @@ for i in range(100, 0, -10):
     print(f"the niggas are now {i}")
 
 
+for i in range(1, 10): 
+    print(f"the niggas are now {i}")
 
 # for i in range(2, 10, 2):
 #     print(i)
